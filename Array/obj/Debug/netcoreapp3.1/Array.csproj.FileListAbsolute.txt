@@ -1,0 +1,10 @@
+C:\Users\stast\source\repos\RectangleApp\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\stast\source\repos\RectangleApp\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\stast\source\repos\RectangleApp\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\stast\source\repos\RectangleApp\Array\obj\Debug\netcoreapp3.1\Array.csproj.AssemblyReference.cache
+C:\Users\stast\source\repos\RectangleApp\Array\obj\Debug\netcoreapp3.1\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stast\source\repos\RectangleApp\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\stast\source\repos\RectangleApp\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\stast\source\repos\RectangleApp\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\stast\source\repos\RectangleApp\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\stast\source\repos\RectangleApp\Array\obj\Debug\netcoreapp3.1\Array.pdb

@@ -1,0 +1,10 @@
+C:\Users\stast\source\repos\RectangleApp\RectangleApp\bin\Debug\RectangleApp.dll
+C:\Users\stast\source\repos\RectangleApp\RectangleApp\bin\Debug\RectangleApp.pdb
+C:\Users\stast\source\repos\RectangleApp\RectangleApp\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\stast\source\repos\RectangleApp\RectangleApp\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\stast\source\repos\RectangleApp\RectangleApp\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\stast\source\repos\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csproj.AssemblyReference.cache
+C:\Users\stast\source\repos\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csproj.CoreCompileInputs.cache
+C:\Users\stast\source\repos\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csproj.CopyComplete
+C:\Users\stast\source\repos\RectangleApp\RectangleApp\obj\Debug\RectangleApp.dll
+C:\Users\stast\source\repos\RectangleApp\RectangleApp\obj\Debug\RectangleApp.pdb
